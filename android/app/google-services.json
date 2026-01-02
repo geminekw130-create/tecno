@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "491950036407",
+    "firebase_url": "https://to-chegando-motoboy-24b4a-default-rtdb.firebaseio.com",
+    "project_id": "to-chegando-motoboy-24b4a",
+    "storage_bucket": "to-chegando-motoboy-24b4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491950036407:android:1b5e5259756c7051034432",
+        "android_client_info": {
+          "package_name": "com.tochegando.motoboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491950036407-9uupeirot82rjhsvuped1emn8k2ns8sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochegando.motoboy",
+            "certificate_hash": "104d13c31806524ed8e814e65d54b027e95dfb6d"
+          }
+        },
+        {
+          "client_id": "491950036407-lrdgateeks4qt05v5pco4prn21b5dd74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp58F_Sdf-CrcwUb8ZizIV7zCVEjIB1FI"
+        },
+        {
+          "current_key": "AIzaSyC-0QpXVBH_Yh8Nz0LpTKsJMSLNx_U1AZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491950036407-lrdgateeks4qt05v5pco4prn21b5dd74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491950036407-16ftavdnpnenbb1917dc2h50comebr6q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tochegando.motoboy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491950036407:android:e1cdffd7cc7cd147034432",
+        "android_client_info": {
+          "package_name": "com.tochegando.passageiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491950036407-js0rvua6bfgif3j14qh0q27ki9hovhtq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochegando.passageiro",
+            "certificate_hash": "104d13c31806524ed8e814e65d54b027e95dfb6d"
+          }
+        },
+        {
+          "client_id": "491950036407-lrdgateeks4qt05v5pco4prn21b5dd74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp58F_Sdf-CrcwUb8ZizIV7zCVEjIB1FI"
+        },
+        {
+          "current_key": "AIzaSyC-0QpXVBH_Yh8Nz0LpTKsJMSLNx_U1AZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491950036407-lrdgateeks4qt05v5pco4prn21b5dd74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491950036407-16ftavdnpnenbb1917dc2h50comebr6q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tochegando.motoboy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
